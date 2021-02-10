@@ -1,0 +1,13 @@
+Application/bin/
+Application/obj/
+Domain/bin/
+Domain/obj/
+Infrastructure/bin/
+.vs/MosCore/
+Infrastructure/obj/
+Shared/bin/
+Shared/obj/
+Web/bin/
+Web/obj/
+WebApi/bin/
+WebApi/obj/
